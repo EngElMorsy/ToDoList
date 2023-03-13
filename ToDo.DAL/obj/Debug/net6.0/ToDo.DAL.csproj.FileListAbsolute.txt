@@ -1,0 +1,14 @@
+C:\Users\Eng-Khaled\source\repos\ToDoList\ToDo.DAL\bin\Debug\net6.0\ToDo.DAL.deps.json
+C:\Users\Eng-Khaled\source\repos\ToDoList\ToDo.DAL\bin\Debug\net6.0\ToDo.DAL.runtimeconfig.json
+C:\Users\Eng-Khaled\source\repos\ToDoList\ToDo.DAL\bin\Debug\net6.0\ToDo.DAL.dll
+C:\Users\Eng-Khaled\source\repos\ToDoList\ToDo.DAL\bin\Debug\net6.0\ToDo.DAL.pdb
+C:\Users\Eng-Khaled\source\repos\ToDoList\ToDo.DAL\obj\Debug\net6.0\ToDo.DAL.csproj.AssemblyReference.cache
+C:\Users\Eng-Khaled\source\repos\ToDoList\ToDo.DAL\obj\Debug\net6.0\ToDo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng-Khaled\source\repos\ToDoList\ToDo.DAL\obj\Debug\net6.0\ToDo.DAL.AssemblyInfoInputs.cache
+C:\Users\Eng-Khaled\source\repos\ToDoList\ToDo.DAL\obj\Debug\net6.0\ToDo.DAL.AssemblyInfo.cs
+C:\Users\Eng-Khaled\source\repos\ToDoList\ToDo.DAL\obj\Debug\net6.0\ToDo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Eng-Khaled\source\repos\ToDoList\ToDo.DAL\obj\Debug\net6.0\ToDo.DAL.dll
+C:\Users\Eng-Khaled\source\repos\ToDoList\ToDo.DAL\obj\Debug\net6.0\refint\ToDo.DAL.dll
+C:\Users\Eng-Khaled\source\repos\ToDoList\ToDo.DAL\obj\Debug\net6.0\ToDo.DAL.pdb
+C:\Users\Eng-Khaled\source\repos\ToDoList\ToDo.DAL\obj\Debug\net6.0\ToDo.DAL.genruntimeconfig.cache
+C:\Users\Eng-Khaled\source\repos\ToDoList\ToDo.DAL\obj\Debug\net6.0\ref\ToDo.DAL.dll
