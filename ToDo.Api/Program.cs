@@ -20,7 +20,8 @@ using ToDo.DAL.Extend;
 var builder = WebApplication.CreateBuilder(args);
 
 
-builder.Services.AddControllers().AddFluentValidation(C=> C.RegisterValidatorsFromAssembly(Assembly.GetExecutingAssembly()));
+builder.Services.AddControllers();
+//.AddFluentValidation(C=> C.RegisterValidatorsFromAssembly(Assembly.GetExecutingAssembly()));
  
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
